@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@100..900&family=Special+Gothic+Expanded+One&display=swap');
+
+*,*::before,*::after{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Special Gothic Expanded One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+body{
+  font-family: "Special Gothic Expanded One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
