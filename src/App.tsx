@@ -70,7 +70,7 @@ const SettingsPanal = ({isOpen,setIsOpen}:SettingsPanalProps)=>{
     const [apiKey,setApiKey]=useState<string>("");
     useEffect(() => {
         chrome.storage.local.get(["apiUrl","apiKey"],items => {
-            if(items && items.apiUrl && items.apiKey){
+            if(items){
                 setApiUrl(items.apiUrl)
                 setApiKey(items.apiKey)
             }
