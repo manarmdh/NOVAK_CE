@@ -9,7 +9,7 @@ A NOVAK Client that allows for detecting Phishing Emails.
 > Did you know this project is a winner of [competition](https://www.facebook.com/share/p/1DT7S67ZVc/) about AI role in cybersecurity.
 
 > [!IMPORTANT]
-> This is only the client you need the [backend and the ai model](https://github.com/CipherDay/hivemindAPI).
+> This is only the client you need the [backend and the ai model](https://github.com/CipherDay/hivemindAPI_PB).
 
 ## More Information
 - This project is built with react
